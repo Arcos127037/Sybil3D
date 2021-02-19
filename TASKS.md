@@ -15,7 +15,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
-* List of your company's support activities:
+* List of your company's support activities: Financial department
 ***
 
 ## Task 2
